@@ -1,2 +1,2 @@
 # repo
-Just a repository
+Hi i am a lineaning to use Git.
